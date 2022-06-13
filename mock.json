@@ -1,0 +1,109 @@
+[{
+        "id": 1,
+        "userName": "admin",
+        "email": "admin@gmail.com",
+        "password": "12345678",
+        "firstName": "admin",
+        "lastName": "admin",
+        "positionNumber": 1,
+        "employmentType": "พนักงานประจำ",
+        "position": "บุคลากร",
+        "level": "สูง",
+        "workStartDate": "05-06-2021 13:47",
+        "study": [{
+                "level": "1",
+                "educational": "2",
+                "university": "3"
+            },
+            {
+                "level": "4",
+                "educational": "5",
+                "university": "6"
+            }
+        ],
+        "expertise": [{
+                "text": "ด้านกีฬา",
+                "value": "บอล"
+            },
+            {
+                "text": "ด้านดนตรี",
+                "value": "กีต้าร์"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "email": "teacher1@gmail.com",
+        "password": "12345678",
+        "firstName": "teacher1",
+        "lastName": "teacher1",
+        "positionNumber": 1,
+        "employmentType": "พนักงานประจำ",
+        "position": "บุคลากร",
+        "level": "กลาง",
+        "workStartDate": "05-06-2020 13:47",
+        "study": [{
+            "level": "1",
+            "educational": "2",
+            "university": "3"
+        }],
+        "expertise": [{
+            "text": "ด้านกีฬา",
+            "value": "บาส"
+        }]
+    },
+    {
+        "id": 3,
+        "email": "teacher2@gmail.com",
+        "password": "12345678",
+        "firstName": "teacher2",
+        "lastName": "teacher2",
+        "positionNumber": 1,
+        "employmentType": "พนักงานประจำ",
+        "position": "บุคลากร",
+        "level": "กลาง",
+        "workStartDate": "01-05-2020 13:47",
+        "study": [{
+            "level": "1",
+            "educational": "2",
+            "university": "3"
+        }],
+        "expertise": []
+    },
+    {
+        "id": 4,
+        "email": "teacher3@gmail.com",
+        "password": "12345678",
+        "firstName": "teacher3",
+        "lastName": "teacher3",
+        "positionNumber": 1,
+        "employmentType": "พนักงานประจำ",
+        "position": "บุคลากร",
+        "level": "กลาง",
+        "workStartDate": "01-05-2019 13:47",
+        "study": [{
+                "level": "1",
+                "educational": "2",
+                "university": "3"
+            },
+            {
+                "level": "4",
+                "educational": "5",
+                "university": "6"
+            }
+        ],
+        "expertise": []
+    },
+    {
+        "id": 5,
+        "email": "student1@gmail.com",
+        "password": "12345678",
+        "position": "นักศึกษา"
+    },
+    {
+        "id": 6,
+        "email": "student2@gmail.com",
+        "password": "12345678",
+        "position": "นักศึกษา"
+    }
+]

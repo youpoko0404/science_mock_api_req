@@ -1,0 +1,26 @@
+{
+    "name": "science_mock_api_req",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./bin/www",
+        "start": "nodemon index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/youpoko0404/science_mock_api_req.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "nodemon": "^1.18.4"
+    },
+    "bugs": {
+        "url": "https://github.com/youpoko0404/science_mock_api_req/issues"
+    },
+    "homepage": "https://github.com/youpoko0404/science_mock_api_req#readme"
+}
