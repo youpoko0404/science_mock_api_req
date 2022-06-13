@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-app.post('/user/login', async(req, res) => {
+app.post('/login', async(req, res) => {
     const result = user.find(e => e.email == req.body.email && e.password == req.body.password)
     if (result) return res.status(200).json({
         message: "Successfully",
