@@ -33,6 +33,7 @@
     },
     {
         "id": 2,
+        "userName": "teacher1",
         "email": "teacher1@gmail.com",
         "password": "12345678",
         "firstName": "teacher1",
@@ -54,6 +55,7 @@
     },
     {
         "id": 3,
+        "userName": "teacher2",
         "email": "teacher2@gmail.com",
         "password": "12345678",
         "firstName": "teacher2",
@@ -72,6 +74,7 @@
     },
     {
         "id": 4,
+        "userName": "teacher3",
         "email": "teacher3@gmail.com",
         "password": "12345678",
         "firstName": "teacher3",
@@ -96,6 +99,7 @@
     },
     {
         "id": 5,
+        "userName": "student1",
         "email": "student1@gmail.com",
         "password": "12345678",
         "position": "นักศึกษา"
