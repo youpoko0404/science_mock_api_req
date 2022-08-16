@@ -37,5 +37,44 @@
     "position": "บุคลากร",
     "level": "กลาง",
     "workStartDate": "05-06-2020 13:47"
+  },
+  {
+    "id": 4,
+    "userName": "user1",
+    "email": "user1@science.maejo",
+    "password": "12345678",
+    "firstName": "firstName1",
+    "lastName": "lastName1",
+    "positionNumber": 1,
+    "employmentType": "พนักงานประจำ",
+    "position": "บุคลากร",
+    "level": "กลาง",
+    "workStartDate": "05-06-2020 13:47"
+  },
+  {
+    "id": 5,
+    "userName": "user2",
+    "email": "user2@science.maejo",
+    "password": "12345678",
+    "firstName": "firstName2",
+    "lastName": "lastName2",
+    "positionNumber": 1,
+    "employmentType": "พนักงานประจำ",
+    "position": "บุคลากร",
+    "level": "กลาง",
+    "workStartDate": "05-06-2020 13:47"
+  },
+  {
+    "id": 6,
+    "userName": "user3",
+    "email": "user3@science.maejo",
+    "password": "12345678",
+    "firstName": "firstName3",
+    "lastName": "lastName3",
+    "positionNumber": 1,
+    "employmentType": "พนักงานประจำ",
+    "position": "บุคลากร",
+    "level": "กลาง",
+    "workStartDate": "05-06-2020 13:47"
   }
 ]
